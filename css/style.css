@@ -1,0 +1,21 @@
+/* style.css */
+
+.container,
+.container-fluid {
+  outline: 1px solid #000;
+}
+#main-title {
+  width: 100%;
+  height: 880px;
+  background: #ccc;
+  background-image: url(../images/ISS_astronaut.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+}
+#main-title .title {
+  padding-top: 50px;
+}
+#main-title .title p {
+  font-size: 25px;
+}
